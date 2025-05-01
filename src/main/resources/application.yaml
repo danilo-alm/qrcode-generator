@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: qrcode-generator
+
+aws:
+  s3:
+    region: us-east-1
+    bucket:
+      name: my-bucket
