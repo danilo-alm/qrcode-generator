@@ -1,3 +1,5 @@
+Experiment for learning Java and Spring. Kept for archival purposes.
+
 # QR Code Generator
 
 This is a simple QR Code generator service that accepts a JSON payload with a `"text"` field, generates a QR code image from the given text, and uploads it to an AWS S3 bucket.
